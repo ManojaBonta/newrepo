@@ -1,0 +1,5 @@
+<project name="devops" default="b" basedir=".">
+<target name="b">
+<mkdir dir="C:/Users/soma/Desktop/manoja/test/ibm"/>
+</target>
+</project>
